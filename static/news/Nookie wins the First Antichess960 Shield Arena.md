@@ -2,7 +2,7 @@
 
 <div class="meta-headline">
     <div class= "meta">
-        <span class="text">2021.09.02</span>
+        <span class="text">2022.07.09</span>
         <span class="text"><a href="/@/CreativeWinning">@CreativeWinning</a></span>
         <span class="text">Announcements</span>
     </div>
